@@ -1,31 +1,36 @@
-# Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: GitLost-dotcom
+repo: cooperandhunter-status
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Secret Site
-    url: $SECRET_SITE
+  - name: Cooper&Hunter Web
+    url: https://cooperandhunter.sk
+  - name: Django Backend (API)
+    url: https://cooperandhunter.sk/api/b2b/settings/global/
+  - name: Umami Analytics
+    url: https://cooperandhunter.sk:8443/api/heartbeat
+  - name: n8n AI Server
+    url: http://195.210.28.32:5678/healthz
+
+assignees:
+  - GitLost-dotcom
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  cname: status.cooperandhunter.sk
+  logoUrl: https://www.cooperandhunter.sk/COOL%20logo.png
+  name: Cooper&Hunter Status
+  introTitle: "**Stav systémov Cooper&Hunter Slovensko**"
+  introMessage: Real-time monitoring dostupnosti nášho e-shopu, B2B portálu a interných systémov.
   navbar:
-    - title: Status
-      href: /
+    - title: Hlavný web
+      href: https://cooperandhunter.sk
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: $REPO
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+i18n:
+  activeIncidents: Aktívne výpadky
+  allSystemsOperational: Všetky systémy sú plne funkčné
+  incidentReport: "Hlásenie o výpadku #$NUMBER"
+  activeIncidentSummary: Voľný čas $DATE, nahlásených $POSTS problémov.
+  down: Offline
+  up: Funkčné
+  degraded: Čiastočný výpadok

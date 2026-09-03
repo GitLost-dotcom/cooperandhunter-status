@@ -3,7 +3,7 @@ repo: cooperandhunter-status
 
 sites:
   - name: Cooper&Hunter Web
-    url: https://cooperandhunter-pokazena-domena.sk
+    url: https://cooperandhunter.sk
   - name: Django Backend (API)
     url: https://cooperandhunter.sk/api/b2b/settings/global/
   - name: Umami Analytics

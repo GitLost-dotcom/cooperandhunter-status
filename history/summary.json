@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/cooperandhunter.sk.ico",
     "slug": "cooper-and-hunter-web",
     "status": "up",
-    "uptime": "99.90%",
+    "uptime": "99.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
-    "time": 578,
-    "timeDay": 453,
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 576,
+    "timeDay": 508,
     "timeWeek": 572,
-    "timeMonth": 578,
-    "timeYear": 578,
+    "timeMonth": 576,
+    "timeYear": 576,
     "dailyMinutesDown": {
       "2026-09-02": 31
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 591,
-    "timeDay": 472,
+    "time": 590,
+    "timeDay": 552,
     "timeWeek": 557,
-    "timeMonth": 591,
-    "timeYear": 591,
+    "timeMonth": 590,
+    "timeYear": 590,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 538,
-    "timeDay": 341,
-    "timeWeek": 520,
-    "timeMonth": 538,
-    "timeYear": 538,
+    "time": 539,
+    "timeDay": 552,
+    "timeWeek": 522,
+    "timeMonth": 539,
+    "timeYear": 539,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 264,
-    "timeDay": 210,
-    "timeWeek": 252,
-    "timeMonth": 264,
-    "timeYear": 264,
+    "time": 263,
+    "timeDay": 243,
+    "timeWeek": 254,
+    "timeMonth": 263,
+    "timeYear": 263,
     "dailyMinutesDown": {}
   }
 ]
